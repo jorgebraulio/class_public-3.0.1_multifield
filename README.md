@@ -8,16 +8,15 @@ inflationary models having a separable (polynomial) field potential.
 Input modifications allow to read potential parameters for several field from 
 the input parameteres file (*.ini) at execution using for example the expresion
 
-V_0_0=1.e-16\n
-V_0_1=-1.e-17\n
-V_0_2=7.e-17\n
-V_0_3=0\n
-V_0_4=0\n
-V_1_0=1.e-16\n
-V_1_1=-1.e-17\n
-V_1_2=7.e-17\n
-...\n
-\n
+V_0_0=1.e-16  
+V_0_1=-1.e-17  
+V_0_2=7.e-17  
+V_0_3=0  
+V_0_4=0  
+V_1_0=1.e-16  
+V_1_1=-1.e-17  
+V_1_2=7.e-17  
+...  
 Where the first index indicates the field number and the second the degree coefficient in the polynomial
 The multifield option is selected with
 
